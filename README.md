@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiru1305
 - 👀 I’m interested in mobile application developement for cross platforms and bare native platforms
 - 🌱 I’m currently learning React Native, Redux
-- 💞️ I’m looking to collaborate with backend programmers for providing backend solutions or APIs
+- 💞️ I’m looking to collaborate with backend programmers to provide backend solutions or APIs
 - 📫 How to reach me, contact me through email tnavakarasu@gmail.com
 
 <!---
