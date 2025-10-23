@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiru1305
-- 👀 I’m interested in mobile application developement for cross platforms and bare native platforms
-- 🌱 I’m currently learning React Native, Redux
+- Software engineer with 3 years’ experience across web and mobile applications — passionate about cross-platform and bare-native mobile development
+- Demonstrated mastery of the modern JS/TS ecosystem — Next.js, React.js, TypeScript, JavaScript, Node.js, Tailwind CSS, and more — building clean, scalable UIs and robust backend integrations end-to-end.
 - 📫 How to reach me, contact me through email tnavakarasu@gmail.com
 
 <!---
